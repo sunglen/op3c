@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="">
+        <source>Inbox</source>
+        <target>收件箱</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Sent Messages</source>
+        <target>已发箱</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Drafts</source>
+        <target>草稿箱</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Trash</source>
+        <target>垃圾箱</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>From</source>
+        <target>发件人</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>To</source>
+        <target>至</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>From/To</source>
+        <target>对象</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete</source>
+        <target>删除</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Restore</source>
+        <target>恢复</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Reply</source>
+        <target>回复</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Subject</source>
+        <target>件名</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Created At</source>
+        <target>日期</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Replied</source>
+        <target>已回复</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Open</source>
+        <target>已读</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Unopened</source>
+        <target>未读</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>There are no messages.</source>
+        <target>没有消息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>There are new %d messages!</source>
+        <target>有%d条新消息！</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Read messages</source>
+        <target>读取消息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Compose Message</source>
+        <target>撰写消息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Send</source>
+        <target>发送</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Draft</source>
+        <target>保存草稿</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Message</source>
+        <target>消息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Message List</source>
+        <target>消息列表</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The message was sent successfully.</source>
+        <target>消息已发出。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The message was saved successfully.</source>
+        <target>消息已保存。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

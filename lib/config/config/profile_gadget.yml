@@ -1,0 +1,119 @@
+freeArea:
+  caption:
+    zh_CN: "自由区域"
+  description:
+    zh_CN: "可以设置自由区域"
+  component: [default, freeAreaBox]
+  config:
+    title:
+      Name:       "title"
+      Caption:    "标题"
+      FormType:   "input"
+      ValueType:  "text"
+      IsRequired: false
+    value:
+      Name:       "value"
+      Caption:    "内容"
+      FormType:   "rich_textarea"
+      ValueType:  "text"
+      IsRequired: false
+
+memberImageBox:
+  caption:
+    zh_CN: "档案照片"
+  description:
+    zh_CN: "在主页上显示成员的登记照片"
+  component: [default, memberImageBox]
+
+friendListBox:
+  caption:
+    zh_CN: "朋友列表"
+  description:
+    zh_CN: "显示成员的朋友列表"
+  component: [friend, friendListBox]
+  config:
+    row:
+      Name:      "row"
+      Caption:   "显示行"
+      FormType:  "select"
+      ValueType:  "int"
+      IsRequired: true
+      Default:    3
+      Choices:    {1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6}
+    col:
+      Name:      "col"
+      Caption:   "显示列"
+      FormType:  "select"
+      ValueType:  "int"
+      IsRequired: true
+      Default:    3
+      Choices:    {1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6}
+    type:
+      Name:      "type"
+      Caption:   "显示类型"
+      FormType:  "radio"
+      ValueType: "text"
+      IsRequired: true
+      Default:    "full"
+      Choices:
+        full:       "显示图片与名字"
+        only_image: "只显示图片"
+        only_name:  "只显示名字"
+
+communityJoinListBox:
+  caption:
+    zh_CN: "加入的社区列表"
+  description:
+    zh_CN: "显示成员加入的社区的列表"
+  component: [community, joinListBox]
+  config:
+    row:
+      Name:      "row"
+      Caption:   "显示行"
+      FormType:  "select"
+      ValueType:  "int"
+      IsRequired: true
+      Default:    3
+      Choices:    {1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6}
+    col:
+      Name:      "col"
+      Caption:   "显示列"
+      FormType:  "select"
+      ValueType:  "int"
+      IsRequired: true
+      Default:    3
+      Choices:    {1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6}
+    type:
+      Name:      "type"
+      Caption:   "显示类型"
+      FormType:  "radio"
+      ValueType: "text"
+      IsRequired: true
+      Default:    "full"
+      Choices:
+        full:       "显示图片与名字"
+        only_image: "只显示图片"
+        only_name:  "只显示名字"
+
+profileListBox:
+  caption:
+    zh_CN: "档案"
+  description:
+    zh_CN: "显示档案信息的列表"
+  component: [member, profileListBox]
+
+activityBox:
+  caption:
+    zh_CN: "动态"
+  description:
+    zh_CN: "显示SNS上的活动的记录"
+  component: [member, activityBox]
+  config:
+    row:
+      Name:     "row"
+      Caption:  "显示行"
+      FormType: "select"
+      ValueType: "int"
+      IsRequired: true
+      Default:    5
+      Choices:    {1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9, 10: 10}

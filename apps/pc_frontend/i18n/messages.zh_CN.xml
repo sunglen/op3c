@@ -1,0 +1,1312 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="">
+        <source>%community% List</source>
+        <target>%community%列表</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%community% Members</source>
+        <target>%community%成员</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Show all</source>
+        <target>查看全部</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Create a new %community%</source>
+        <target>建立%community%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Edit the %community%</source>
+        <target>%community%编辑</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Management member</source>
+        <target>成员管理</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%community% Name</source>
+        <target>%community%名称</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Date Created</source>
+        <target>开设日期</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Administrator</source>
+        <target>管理者</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Sub Administrator</source>
+        <target>副管理者</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Count of Members</source>
+        <target>成员数</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Description</source>
+        <target>说明</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%community%</source>
+        <target>%community%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Edit this %community%</source>
+        <target>编辑该%community%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Leave this %community%</source>
+        <target>退出该%community%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Join this %community%</source>
+        <target>参加该%community%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You are already joined to this %community%.</source>
+        <target>已经加入了该%community%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You have already sent the participation request to this %community%.</source>
+        <target>已经发送了加入该%community%的申请。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You are waiting for the participation approval by %community%'s administrator.</source>
+        <target>等待%community%管理者批准加入申请。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Errors</source>
+        <target>错误</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Joined %community%</source>
+        <target>参加%community%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You don't have any joined %community%.</source>
+        <target>没有加入任何%community%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Drop this member</source>
+        <target>强制退会</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The administrator doesn't leave the %community%.</source>
+        <target>管理者不能退会。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You haven't joined this %community% yet.</source>
+        <target>尚未加入该%community%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Search %community%</source>
+        <target>%community%搜索</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Search</source>
+        <target>搜索</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Search Results</source>
+        <target>搜索结果</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Other member can not view the mail address that was input here.</source>
+        <target>这里输入的邮箱不会被其他成员看到。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Your search queries did not match any %community%.</source>
+        <target>没有匹配的%community%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You have received the request to take over administrator of "%1%".</source>
+        <target>收到了来自「%1%」的管理者交接请求。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Take over this %community%'s administrator to this member</source>
+        <target>接掌管理权</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You are taking over this %community%'s administrator to this member now.</source>
+        <target>正在交接管理权</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Take over the administrator of "%1%"</source>
+        <target>接掌「%1%」的管理权</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Request this %community%'s sub-administrator to this member</source>
+        <target>任命为副管理者</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You are requesting this %community%'s sub-administrator to this member now.</source>
+        <target>副管理者任命中</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Demotion from this %community%'s sub-administrator</source>
+        <target>从副管理者降级</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Request the sub-administrator of "%1%"</source>
+        <target>「%1%」的副管理者任命</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you demotion %0% from this %community%'s sub-administrator?</source>
+        <target>将%0%从副管理者的位置上降级吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Member</source>
+        <target>成员</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You can't access this page.</source>
+        <target>不能访问该页。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%1% sent %friend% request to you!</source>
+        <target>从%1%处来了%friend%申请！</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%1% send request for participation to %2%.</source>
+        <target>%1%希望参加%2%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Permits</source>
+        <target>允许</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Refuses</source>
+        <target>拒绝</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%my_friend% Setting</source>
+        <target>%my_friend%管理</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>This member already belongs to %my_friend%.</source>
+        <target>已经是%my_friend%了。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%Friend% request is already sent.</source>
+        <target>现在%Friend%申请中。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You have requested %friend% link.</source>
+        <target>%friend%已申请。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You don't have any %friend%.</source>
+        <target>没有%friend%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete from %my_friend%.</source>
+        <target>从%my_friend%删除。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you delete %0% from %my_friend%?</source>
+        <target>真的要从%my_friend%中删除%0%吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Add %my_friend%</source>
+        <target>添加至%my_friend%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>This member is not your %friend%.</source>
+        <target>不是%friend%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Register Mobile phone</source>
+        <target>手机注册</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>When mobile information registration is done from following URL, the member registration is completed.</source>
+        <target>随以下链接进行手机注册， 即完成会员注册。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Settings</source>
+        <target>设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Change Settings</source>
+        <target>更改设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Send</source>
+        <target>发送</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Photo</source>
+        <target>照片</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Edit Photo</source>
+        <target>编辑照片</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Show more Photos</source>
+        <target>看更多照片</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%1%'s Photos</source>
+        <target>%1%的照片</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please select the item that wants to be set from the menu.</source>
+        <target>请从菜单中选择想要设定的项目。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Edit profile</source>
+        <target>编辑档案</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Edit Profile</source>
+        <target>编辑档案</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Profile</source>
+        <target>档案</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>All Members</source>
+        <target>向全员公开</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%my_friend%</source>
+        <target>向%my_friend%公开</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Only Open to %my_friend%</source>
+        <target>仅向%my_friend%公开</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Private</source>
+        <target>不公开</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Invite a friend to %1%</source>
+        <target>邀请朋友到%1%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The invitation has not been permitted.</source>
+        <target>不允许邀请朋友。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Sent.</source>
+        <target>已发送。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Failed in login.</source>
+        <target>登录失败。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Last Login</source>
+        <target>最后登录</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%friend% List</source>
+        <target>%friend%列表</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Other members look your page like this.</source>
+        <target>※其他成员浏览您的页面时就是这个样子。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>If you teach your page to other members, please use following URL.</source>
+        <target>如果您要把自己的页面告诉其他成员， 请使用以下的链接。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>If you edit this page, please visit %1%.</source>
+        <target>更改档案的情况下， 请访问「%1%」。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>It is necessary to register the mobile-phone information to entry in %1%.</source>
+        <target>要加入%1%， 必须注册手机。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Register the mobile-phone</source>
+        <target>注册手机</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>URL for mobile registration is send to the mobile mail address appropriating input here.</source>
+        <target>此处输入的国内手机邮箱的格式必须为「手机号码@139.com/wo.com.cn/189.cn」。注册链接将发送至此处输入的手机邮箱。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please set your mobile phone to receive a mail from %1%.</source>
+        <target>如果本系统服务器在境外，国内用户可能无法收到注册邮件。为解除此限制，请用户用手机邮箱发送一封空邮件至「%1%」，并再次点击发送。日本用户如果使用指定域接收功能， 请在手机上设定能顺利接收从「%1%」发出的电子邮件。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%nickname%</source>
+        <target>%nickname%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Your search queries did not match any members.</source>
+        <target>无匹配用户。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>When the mail address is registered, it is changed to a new mail address.</source>
+        <target>如果邮箱已注册， 请变更为新的邮箱。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Click following URL, please. You can register in %1%.</source>
+        <target>请从以下链接注册%1%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Main Photo</source>
+        <target>首选照片</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Upload</source>
+        <target>上载</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Register</source>
+        <target>注册新帐户</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete</source>
+        <target>删除</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You can upload 3 photos.</source>
+        <target>最多能够上载3幅照片。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please make it to GIF･JPEG･PNG within %max_size% bytes.</source>
+        <target>以 %max_size% 字节以内的GIF・JPEG・PNG格式。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Photograph that hits violation of copyright and portrait right and violence and obscene photograph and other members are seen and revolted a press ban. Please publish by the self-responsibility.</source>
+        <target>禁止张贴侵害著作权与肖像权的照片、暴力的和猥琐的照片、其他成员看到后可能感到不快的照片。请了解，张贴照片为自身的责任。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Details</source>
+        <target>查看详细</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please beginning register from %1% to following URL.</source>
+        <target>请从以下链接注册%1%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please input a mail address.</source>
+        <target>请输入电子邮件地址。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You can not delete your account.</source>
+        <target>ID为1的会员不能退会。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you delete your %1% account?</source>
+        <target>真的要从%1%退会吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please input your password if you want to delete your account.</source>
+        <target>想要退会的情况下，请在下面的表格中输入密码。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete your %1% account</source>
+        <target>永久退出%1%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Back to previous page</source>
+        <target>返回上一页</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Show Profile</source>
+        <target>查看档案</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>General Configuration</source>
+        <target>一般设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Public Flag Configuration</source>
+        <target>公开范围设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>PC E-mail Address Configuration</source>
+        <target>PC邮箱设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>PC E-mail Address</source>
+        <target>PC邮箱</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>PC E-mail Address (Confirm)</source>
+        <target>PC邮箱(确认)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Mobile E-mail Address Configuration</source>
+        <target>手机邮箱设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Mobile E-mail Address</source>
+        <target>手机邮箱</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Mobile E-mail Address (Confirm)</source>
+        <target>手机邮箱(确认)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Password Configuration</source>
+        <target>密码设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Password</source>
+        <target>密码</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Password (Confirm)</source>
+        <target>密码(确认)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Password must be 6-12 characters.</source>
+        <target>请输入6～12字符的半角英文字母和数字作为密码。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Access Block Configuration</source>
+        <target>访问阻止设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Access Block</source>
+        <target>访问阻止</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Your current password</source>
+        <target>现在的密码</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>not login yet</source>
+        <target>尚不能登录</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>less than 5 seconds ago</source>
+        <target>5秒以内</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>less than 10 seconds ago</source>
+        <target>10秒以内</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>less than 20 seconds ago</source>
+        <target>20秒以内</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>half a minute ago</source>
+        <target>30秒以内</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>less than a minute ago</source>
+        <target>1分以内</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>1 minute ago</source>
+        <target>1分之前</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%minutes% minutes ago</source>
+        <target>%minutes%分之前</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>about 1 hour ago</source>
+        <target>约1小时之前</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>about %hours% hours ago</source>
+        <target>约%hours%小时之前</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>1 day ago</source>
+        <target>1天之前</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%days% days ago</source>
+        <target>%days%天之前</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>about 1 month ago</source>
+        <target>约1个月之前</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%months% months ago</source>
+        <target>%months%个月之前</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>about 1 year ago</source>
+        <target>1年前</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>over %years% years ago</source>
+        <target>%years%年（及以上）之前</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>If %1% is your friend, let us add to %my_friend% it!</source>
+        <target>与%1%在线下已认识的情况下，加为%my_friend%吧！</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Mail address</source>
+        <target>邮箱地址</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Languages</source>
+        <target>语言</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Member Registration</source>
+        <target>成员注册</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Cannot add an image any more.</source>
+        <target>不能再添加图片了。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Message(Arbitrary)</source>
+        <target>消息(任意)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Mail address list during invitation</source>
+        <target>邀请中的邮箱地址一览</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Y/m/d</source>
+        <target>Y年m月d日</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Information About the Withdrawal Member</source>
+        <target>退会者数据</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Remove the current photo</source>
+        <target>删除该照片</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Everyone can join</source>
+        <target>谁都可以加入</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%Community%'s admin authorization needed</source>
+        <target>需要%Community%管理者的审核</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%community% Category</source>
+        <target>%community%分类</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>All categories</source>
+        <target>全部类别</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>delete this %community%.if you delete this %community% please to report in advance for all this %community% members.</source>
+        <target>删除该%community%。删除该%community%的情况下，请事先通知%community%的成员。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete</source>
+        <target>删除</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete this %community%</source>
+        <target>删除%community%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you delete this %community%?</source>
+        <target>确认删除吗？</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Do you drop %0% from this %community%?</source>
+        <target>真的要将%0%从该%community%中强制退会吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Yes</source>
+        <target>是</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>No</source>
+        <target>否</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%0% is required field.</source>
+        <target>%0%是必填项目。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please Select</source>
+        <target>请选择</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Text Mode</source>
+        <target>文本模式</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Preview Mode</source>
+        <target>预览模式</target>
+      </trans-unit>
+
+      <trans-unit id="">
+        <source>Invalid.</source>
+        <target>不正确。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Required.</source>
+        <target>是必须项目。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>CSRF attack detected.</source>
+        <target>请再次读取前一页面，并改正操作。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" does not match the date format (%date_format%).</source>
+        <target>请按%date_format%格式输入。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The date must be before %max%.</source>
+        <target>日期必须在%max%之前。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The date must be after %min%.</source>
+        <target>日期必须在%min%之后。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The begin date must be before the end date.</source>
+        <target>开始日期必须在结束日期之前。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>File is too large (maximum is %max_size% bytes).</source>
+        <target>文件过大(最大为 %max_size% 字节)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Invalid mime type (%mime_type%).</source>
+        <target>文件类型（%mime_type%）不正确。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The uploaded file was only partially uploaded.</source>
+        <target>文件上载失败（上载中断）。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Missing a temporary folder.</source>
+        <target>文件上载失败（临时文件夹缺失）。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Failed to write file to disk.</source>
+        <target>文件上载失败（存盘错误）。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>File upload stopped by extension.</source>
+        <target>文件上载中止（扩展名不正确）。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Unexpected extra form field named "%field%".</source>
+        <target>不正确。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The form submission cannot be processed. It probably means that you have uploaded a file that is too big.</source>
+        <target>提交失败。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" is not an integer.</source>
+        <target>不是整数。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" is not a number.</source>
+        <target>不是数字。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" must be less than %max%.</source>
+        <target>必须小于%max%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" must be greater than %min%.</source>
+        <target>必须大于%min%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" is too long (%max_length% characters max).</source>
+        <target>请于%max_length%字符以内输入。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" is too short (%min_length% characters min).</source>
+        <target>请输入%min_length%字符以上。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>password is too long (%max_length% characters max).</source>
+        <target>请于%max_length%字符以内输入。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>password is too short (%min_length% characters min).</source>
+        <target>请输入%min_length%字符以上。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" does not match the time format (%time_format%).</source>
+        <target>请按%time_format%格式输入。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>invalid e-mail address</source>
+        <target>邮箱无效</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>An object with the same "%column%" already exist.</source>
+        <target>该 %column% 已被使用。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Language and Time Zone Configuration</source>
+        <target>语言与时区设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Language</source>
+        <target>使用的语言</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Time Zone</source>
+        <target>使用的时区</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Man</source>
+        <target>男性</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Female</source>
+        <target>女性</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Hokkaido</source>
+        <target>北海道</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Aomori</source>
+        <target>青森県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Iwate</source>
+        <target>岩手県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Miyagi</source>
+        <target>宮城県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Akita</source>
+        <target>秋田県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Yamagata</source>
+        <target>山形県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Fukushima</source>
+        <target>福島県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Ibaraki</source>
+        <target>茨城県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Tochigi</source>
+        <target>栃木県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Gunma</source>
+        <target>群馬県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Saitama</source>
+        <target>埼玉県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Chiba</source>
+        <target>千葉県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Tokyo</source>
+        <target>東京都</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Kanagawa</source>
+        <target>神奈川県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Niigata</source>
+        <target>新潟県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Toyama</source>
+        <target>富山県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Ishikawa</source>
+        <target>石川県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Fukui</source>
+        <target>福井県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Yamanashi</source>
+        <target>山梨県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Nagano</source>
+        <target>長野県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Gifu</source>
+        <target>岐阜県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Shizuoka</source>
+        <target>静岡県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Aichi</source>
+        <target>愛知県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Mie</source>
+        <target>三重県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Shiga</source>
+        <target>滋賀県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Kyoto</source>
+        <target>京都府</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Osaka</source>
+        <target>大阪府</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Hyogo</source>
+        <target>兵庫県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Nara</source>
+        <target>奈良県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Wakayama</source>
+        <target>和歌山県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Tottori</source>
+        <target>鳥取県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Shimane</source>
+        <target>島根県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Okayama</source>
+        <target>岡山県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Hiroshima</source>
+        <target>広島県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Yamaguchi</source>
+        <target>山口県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Tokushima</source>
+        <target>徳島県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Kagawa</source>
+        <target>香川県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Ehime</source>
+        <target>愛媛県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Kochi</source>
+        <target>高知県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Fukuoka</source>
+        <target>福岡県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Saga</source>
+        <target>佐賀県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Nagasaki</source>
+        <target>長崎県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Kumamoto</source>
+        <target>熊本県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Oita</source>
+        <target>大分県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Miyazaki</source>
+        <target>宮崎県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Kagoshima</source>
+        <target>鹿児島県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Okinawa</source>
+        <target>沖縄県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Sex</source>
+        <target>性别</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Birthday</source>
+        <target>生日</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Country</source>
+        <target>国家或地区</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Region</source>
+        <target>都市（都道府県省州邦直辖市自治区）</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Region in Japan</source>
+        <target>都道府県</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Postal Code</source>
+        <target>邮政编码</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Telephone Number</source>
+        <target>电话号码</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Self Introduction</source>
+        <target>自我介绍</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Login to %1% using your %2% ID</source>
+        <target>使用ID %2% 登录 %1% </target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You are login to %1% as:</source>
+        <target>您正使用下面的帐号登录 %1% :</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you wish to login to the following site using your %1% ID?</source>
+        <target>使用您的 %1% ID 登录以下网站？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Automatically login to %1% from now on</source>
+        <target>今后 %1% 的登录将自动进行</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>This page will automatically redirect soon.</source>
+        <target>重定向中。请稍等。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>If this does not work for any reason use the button below:</source>
+        <target>如果没有重定向，请点击以下按钮。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Click this button to continue</source>
+        <target>请点击该按钮继续。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please login</source>
+        <target>请登录</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Add new application</source>
+        <target>添加新的应用程序</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you revoke the access authority from this application?</source>
+        <target>撤销该应用程序的访问权限吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Revoke</source>
+        <target>撤销</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Revoke Access</source>
+        <target>撤销访问权限</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The access authority was revoked successfully.</source>
+        <target>访问权限已撤销。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The application was deleted successfully.</source>
+        <target>应用程序已删除。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you really delete this application?</source>
+        <target>删除该应用程序？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>External Service</source>
+        <target>外部服务</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Policy of Permission</source>
+        <target>许可策略</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Always Permit</source>
+        <target>总是允许</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Unset Permission</source>
+        <target>撤回许可</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Ask Each Time</source>
+        <target>每次询问</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>List of Service that You Use</source>
+        <target>使用中的服务一览</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Your OpenID</source>
+        <target>您的OpenID</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Connecting with External Application</source>
+        <target>与外部服务的连接设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>OpenID Configuration</source>
+        <target>OpenID的设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you unset the permission of this service?</source>
+        <target>解除该服务的许可权限吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Unset</source>
+        <target>解除</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>And, this site wants to use your following informations.</source>
+        <target>并且，此网站将使用您的以下的信息。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The shared information may save in this site permanently.</source>
+        <target>共享信息将有可能永久保存在此网站中。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please uncheck these informations that you don't want to share with the site.</source>
+        <target>请取消勾选那些您不想提供给网站的信息。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>&lt;strong&gt;An emphatic item&lt;/strong&gt; is an information that you need to use the site. If you uncheck that item, that action is recognized as clicking "No".</source>
+        <target>&lt;strong&gt;强调的项目&lt;/strong&gt;是使用本网站所必须提供的最低限度的信息。如果取消勾选该项目，相当于选择「否」。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Notify of Your Registering</source>
+        <target>完成注册的通知</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Mail Configuration</source>
+        <target>电子邮件设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Daily News</source>
+        <target>每日新闻</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Don't Send</source>
+        <target>不发送</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>[1]Send once a week (%2%)|[2]Send twice a week (%2%)|(2,+Inf]Send %1% times a week (%2%)</source>
+        <target>[1]每周发送1次 (%2%)|[2]每周发送2次 (%2%)|(2,+Inf]每周发送%1%次 (%2%)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Send Everyday</source>
+        <target>每日发送</target>
+      </trans-unit>
+     <trans-unit id="">
+       <source>You have the following pending requests. Select "Accept" or "Reject".</source>
+       <target>有以下的请求等待批准。请选择批准或拒绝。</target>
+     </trans-unit>
+     <trans-unit id="">
+       <source>You don't have any pending requests</source>
+       <target>没有等待批准的请求</target>
+     </trans-unit>
+     <trans-unit id="">
+       <source>Accept</source>
+       <target>批准</target>
+     </trans-unit>
+     <trans-unit id="">
+       <source>Reject</source>
+       <target>拒绝</target>
+     </trans-unit>
+      <trans-unit id="">
+        <source>You have just accepted %friend% link request.</source>
+        <target>批准%friend%结交。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You have just rejected %friend% link request.</source>
+        <target>拒绝%friend%结交。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Go to Confirmation Page</source>
+        <target>至待批准请求一览表</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You've gotten %1% %friend% requests</source>
+        <target>有%1%件的%friend%申请</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Pending %friend% link requests</source>
+        <target>待批准的%friend%结交</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You've gotten %1% one's %community% joining requests</source>
+        <target>有%1%件%community%的参加申请。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You've gotten %1% %community% administrator taking over requests</source>
+        <target>有%1%件%community%管理者交接请求</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You've gotten %1% %community% sub-administrator requests</source>
+        <target>有%1%件%community%副管理者请求</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You have just accepted joining to %1%</source>
+        <target>%1%的加入申请获得批准</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You have just rejected joining to %1%</source>
+        <target>%1%的加入申请被拒绝</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Pending %community% joining requests</source>
+        <target>待批准的%community%参加申请</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You have just accepted taking over %community%</source>
+        <target>批准了%community%管理者交接请求</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You have just rejected taking over %community%</source>
+        <target>拒绝了%community%管理者交接请求</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Pending %community% administrator taking over requests</source>
+        <target>待批准的%community%管理者交接请求</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You have just accepted request of %community% sub-administrator</source>
+        <target>接受了%community%副管理者的任命</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You have just rejected request of %community% sub-administrator</source>
+        <target>拒绝了%community%副管理者的任命</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Pending %community% sub-administrator requests</source>
+        <target>%community%副管理者请求</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Join to "%1%"</source>
+        <target>加入「%1%」</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you really join to the following %community%?</source>
+        <target>真的要加入以下的%community%吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You have just joined to this %community%.</source>
+        <target>加入了该%community%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Quit "%1%"</source>
+        <target>从「%1%」退出</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you really quit the following %community%?</source>
+        <target>真的要退出以下的%community%吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You have just quitted this %community%.</source>
+        <target>已从该%community%退出。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Can not access your account?</source>
+        <target>登录失败时请点击这里</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Public Flag for Age</source>
+        <target>年龄的公开范围</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Activity</source>
+        <target>动态</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>My Activities</source>
+        <target>自己的动态</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Activities of %my_friend%</source>
+        <target>%my_friend%的动态</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Activities of %0%</source>
+        <target>%0%的动态</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Post Activity</source>
+        <target>发布</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>There is no activity.</source>
+        <target>没有动态。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you delete this activity?</source>
+        <target>删除该动态吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>An activity was deleted.</source>
+        <target>动态已删除。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Failed to post activity.</source>
+        <target>动态发布失败。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Privacy policy</source>
+        <target>隐私策略</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Terms of service</source>
+        <target>服务条款</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Mobile E-mail Address Registration Completed</source>
+        <target>手机注册邮件地址发送完毕</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>When mobile information registration is done, the member registration is completed.</source>
+        <target>用户在手机上注册后，方能完成全部手续。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Sent a mail for your mobile e-mail address. Begin your registration from a URL in the mail.</source>
+        <target>已发送一封电子邮件至用户输入的手机邮箱。请登录该手机邮箱，点击邮件内的链接（或复制到浏览器地址栏）完成注册手续。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Search Members</source>
+        <target>搜索成员</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

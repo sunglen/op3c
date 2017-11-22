@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="">
+        <source>Cannot add an image any more.</source>
+        <target>无法添加更多的图片了。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Some errors occurred while processing your mail</source>
+        <target>在处理电邮的过程中出错</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Cannot add an image.</source>
+        <target>无法添加图片。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Invalid.</source>
+        <target>不正确。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Required.</source>
+        <target>为必须项目。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>CSRF attack detected.</source>
+        <target>请重新读取前面的画面，并修正操作。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" does not match the date format (%date_format%).</source>
+        <target>请以%date_format%格式输入。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The date must be before %max%.</source>
+        <target>日期必须在%max%以前。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The date must be after %min%.</source>
+        <target>日期必须在%min%以后。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The begin date must be before the end date.</source>
+        <target>开始日期必须在结束日期之前。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>File is too large (maximum is %max_size% bytes).</source>
+        <target>文件过大。(最大至 %max_size% 字节)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Invalid mime type (%mime_type%).</source>
+        <target>无效的mime类型。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The uploaded file was only partially uploaded.</source>
+        <target>文件上载失败。（仅部分上载）</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Missing a temporary folder.</source>
+        <target>文件上载失败。（临时文件夹缺失）</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Failed to write file to disk.</source>
+        <target>文件上载失败。（存盘错误）</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>File upload stopped by extension.</source>
+        <target>文件上载中止。（扩展名无效）</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Unexpected extra form field named "%field%".</source>
+        <target>不正确。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The form submission cannot be processed. It probably means that you have uploaded a file that is too big.</source>
+        <target>提交失败。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" is not an integer.</source>
+        <target>非整数。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" is not a number.</source>
+        <target>非数值。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" must be less than %max%.</source>
+        <target>必须小于%max%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" must be greater than %min%.</source>
+        <target>必须大于%min%。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" is too long (%max_length% characters max).</source>
+        <target>请输入%max_length%字符以内。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" is too short (%min_length% characters min).</source>
+        <target>请输入%min_length%字符以上。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>password is too long (%max_length% characters max).</source>
+        <target>请输入%max_length%字符以内。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>password is too short (%min_length% characters min).</source>
+        <target>请输入%min_length%字符以上。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>"%value%" does not match the time format (%time_format%).</source>
+        <target>请以%time_format%格式输入。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>invalid e-mail address</source>
+        <target>电子邮件地址无效</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>An object with the same "%column%" already exist.</source>
+        <target>该 %column% 已被使用。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

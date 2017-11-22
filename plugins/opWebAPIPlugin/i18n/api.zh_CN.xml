@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="">
+        <source>Name</source>
+        <target>名称</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Description</source>
+        <target>说明</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Using apis</source>
+        <target>使用的API</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Image</source>
+        <target>图片</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Select apis that your application needs.</source>
+        <target>请选择应用程序使用的API。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Get Member item(s)</source>
+        <target>取得会员信息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Get Diary item(s)</source>
+        <target>取得日记</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Post Diary item(s)</source>
+        <target>发表日记</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Put Diary item(s)</source>
+        <target>更新日记</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete Diary item(s)</source>
+        <target>删除日记</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Get Community item(s)</source>
+        <target>取得社区</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Post Community item(s)</source>
+        <target>添加社区</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Put Community item(s)</source>
+        <target>更新社区</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete Community item(s)</source>
+        <target>删除社区</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Get CommunityMember item(s)</source>
+        <target>取得社区成员信息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Get CommunityTopic item(s)</source>
+        <target>取得社区话题</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Post CommunityTopic item(s)</source>
+        <target>发表社区话题</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Put CommunityTopic item(s)</source>
+        <target>更新社区话题</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete CommunityTopic item(s)</source>
+        <target>删除社区话题</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Get CommunityTopicComment item(s)</source>
+        <target>取得社区话题评论</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Post CommunityTopicComment item(s)</source>
+        <target>发表社区话题评论</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete CommunityTopicComment item(s)</source>
+        <target>删除社区话题评论</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Get CommunityEvent item(s)</source>
+        <target>取得社区活动</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Post CommunityEvent item(s)</source>
+        <target>发布社区活动</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Put CommunityEvent item(s)</source>
+        <target>更新社区活动</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete CommunityEvent item(s)</source>
+        <target>删除社区活动</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Get CommunityEventComment item(s)</source>
+        <target>取得社区活动评论</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Post CommunityEventComment item(s)</source>
+        <target>发表社区活动评论</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete CommunityEventComment item(s)</source>
+        <target>删除社区活动评论</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

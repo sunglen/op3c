@@ -1,0 +1,88 @@
+SnsTerm:
+  term_friend_pc_frontend:
+    name: "friend"
+    application: "pc_frontend"
+    Translation:
+      ja_JP:
+        value: "フレンド"
+      en:
+        value: "friend"
+      zh_CN:
+        value: "朋友"
+
+  term_friend_mobile_frontend:
+    name: "friend"
+    application: "mobile_frontend"
+    Translation:
+      ja_JP:
+        value: "ﾌﾚﾝﾄﾞ"
+      en:
+        value: "friend"
+      zh_CN:
+        value: "朋友"
+
+  term_my_friend_pc_frontend:
+    name: "my_friend"
+    application: "pc_frontend"
+    Translation:
+      ja_JP:
+        value: "マイフレンド"
+      en:
+        value: "my friend"
+      zh_CN:
+        value: "我的朋友"
+
+  term_my_friend_mobile_frontend:
+    name: "my_friend"
+    application: "mobile_frontend"
+    Translation:
+      ja_JP:
+        value: "ﾏｲﾌﾚﾝﾄﾞ"
+      en:
+        value: "my friend"
+      zh_CN:
+        value: "我的朋友"
+
+  term_community_pc_frontend:
+    name: "community"
+    application: "pc_frontend"
+    Translation:
+      ja_JP:
+        value: "コミュニティ"
+      en:
+        value: "community"
+      zh_CN:
+        value: "社区"
+
+  term_community_mobile_frontend:
+    name: "community"
+    application: "mobile_frontend"
+    Translation:
+      ja_JP:
+        value: "ｺﾐｭﾆﾃｨ"
+      en:
+        value: "community"
+      zh_CN:
+        value: "社区"
+
+  term_nickname_pc_frontend:
+    name: "nickname"
+    application: "pc_frontend"
+    Translation:
+      ja_JP:
+        value: "ニックネーム"
+      en:
+        value: "nickname"
+      zh_CN:
+        value: "昵称"
+
+  term_nickname_mobile_frontend:
+    name: "nickname"
+    application: "mobile_frontend"
+    Translation:
+      ja_JP:
+        value: "ﾆｯｸﾈｰﾑ"
+      en:
+        value: "nickname"
+      zh_CN:
+        value: "昵称"

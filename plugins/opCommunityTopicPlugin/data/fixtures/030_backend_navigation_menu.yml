@@ -1,0 +1,10 @@
+Navigation:
+  backend_side_community_topic:
+    type: "backend_side"
+    uri: "communityTopic/topicList"
+    sort_order: 25
+    Translation:
+      ja_JP:
+        caption: "トピック管理"
+      zh_CN:
+        caption: "话题管理"

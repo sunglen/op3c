@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+        <source>Title</source>
+        <target>标题</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Edit</source>
+        <target>编辑</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Delete</source>
+        <target>删除</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Comments</source>
+        <target>评论</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Post a diary comment</source>
+        <target>写评论</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>[1]1 diary has new comments!|(1,Inf]%1% diaries have new comments!</source>
+        <target>[1,Inf]%1%篇日记下有新评论!</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>Profile of %1%</source>
+        <target>%1%的页面</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>Diary Comment History</source>
+        <target>日记评论履历</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>Post from E-mail</source>
+        <target>电子邮件投稿</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>You can attach photo files to e-mail.</source>
+        <target>可附加照片到邮件中。</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>View Image</source>
+        <target>查看照片</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>Your comment is visible to all users on the Web.</source>
+        <target>该篇日记的评论向Web全体公开。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

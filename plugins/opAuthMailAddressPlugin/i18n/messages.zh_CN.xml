@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="">
+        <source>Do you forget your password?</source>
+        <target>忘记密码的人士</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please click the following button to start the password recovery process.</source>
+        <target>请点击以下按钮，执行重置密码的手续。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Go to Password Recovery Page</source>
+        <target>进入重置密码的页面</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Password Recovery</source>
+        <target>重置密码</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>What is your father's / mother's former name?</source>
+        <target>母亲或父亲的旧姓是？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>What is last 5 digits of your driving license number?</source>
+        <target>驾驶证的最后5位数字是？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>What is your first crush's name?</source>
+        <target>初恋的人的名字是？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>What is your finished elementary school?</source>
+        <target>毕业的小学校的名字是？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>What is region name of your domicile of origin?</source>
+        <target>籍贯所在地的省份是？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Your Secret Question</source>
+        <target>秘密问题</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Your Answer for the Question</source>
+        <target>秘密问题的答案</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Sent you a mail for completing your password recovery. If you cannot receive the mail, please retry a password recovery process.</source>
+        <target>已发送重置密码的电子邮件。如果没有收到该邮件，请再次执行密码重置之手续。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Secret Question Configuration</source>
+        <target>秘密问题的设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Secret Question</source>
+        <target>秘密问题</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Answer for Secret Question</source>
+        <target>秘密问题的答案</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please input your e-mail address. Invitation for %1% will be sent to your e-mail address.</source>
+        <target>请输入电子邮件地址。 %1% 的邀请函将会被送至您输入的邮箱。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Sent you an invitation for %1%.</source>
+        <target>已发送 %1% 的邀请函至您输入的邮箱。如未收到邮件，请务必检查垃圾箱。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Begin your registration from a URL in the mail.</source>
+        <target>请跟随邀请函中的链接执行注册手续。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>We accepted your recovering password request.</source>
+        <target>已接受您的密码重置请求。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please click the following URL and complete password recovery process.</source>
+        <target>请访问下面的链接，进行密码的重置。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please input your new password.</source>
+        <target>请输入新密码。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Your password is now changed.</source>
+        <target>密码已变更。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

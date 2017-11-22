@@ -1,0 +1,68 @@
+gadget:
+  name: "主画面"
+  layout:
+    default: layoutA
+    choices: [layoutA, layoutB, layoutC]
+  plot_action: [design, homeGadgetPlot]
+
+profile:
+  name: "个人档案画面"
+  layout:
+    default: layoutA
+    choices: [layoutA, layoutB, layoutC]
+  plot_action: [design, profileGadgetPlot]
+
+login:
+  name: "登录画面"
+  layout:
+    default: layoutA
+    choices: [layoutA, layoutB, layoutC]
+  plot_action: [design, loginGadgetPlot]
+
+sideBanner:
+  name: "Side Banner画面"
+  layout:
+    default: layoutD
+  plot_action: [design, sideBannerGadgetPlot]
+
+mobile:
+  name: "手机版主画面"
+  layout:
+    default: layoutE
+  plot_action: [design, mobileHomeGadgetPlot]
+
+mobileProfile:
+  name: "手机版个人档案画面"
+  layout:
+    default: layoutE
+  plot_action: [design, mobileProfileGadgetPlot]
+
+mobileLogin:
+  name: "手机版登录画面"
+  layout:
+    default: layoutD
+  plot_action: [design, mobileLoginGadgetPlot]
+
+mobileHeader:
+  name: "手机版页眉"
+  layout:
+    default: layoutD
+  plot_action: [design, mobileHeaderGadgetPlot]
+
+mobileFooter:
+  name: "手机版页脚"
+  layout:
+    default: layoutD
+  plot_action: [design, mobileFooterGadgetPlot]
+
+dailyNews:
+  name: "每日新闻（面向PC邮箱）"
+  layout:
+    default: layoutD
+  plot_action: [design, dailyNewsGadgetPlot]
+
+mobileDailyNews:
+  name: "每日新闻（面向手机邮箱）"
+  layout:
+    default: layoutD
+  plot_action: [design, mobileDailyNewsGadgetPlot]

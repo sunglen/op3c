@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="ja_JP" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+        <source>%community% Name</source>
+        <target>%community%名</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>%community% Category</source>
+        <target>%community%类别</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Register policy</source>
+        <target>参加条件</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>%community% Description</source>
+        <target>%community%说明</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Invalid.</source>
+        <target>不正确。</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Required.</source>
+        <target>为必须项目。</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>All categories</source>
+        <target>全部类别</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>An object with the same "name" already exist in other %community%.</source>
+        <target>该%community%名已被使用。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,23 @@
+friend:
+  caption:
+    ja_JP: "フレンド"
+    en: "Friend"
+    zh_CN: "朋友"
+
+my_friend:
+  caption:
+    ja_JP: "マイフレンド"
+    en: "My Friend"
+    zh_CN: "我的朋友"
+
+community:
+  caption:
+    ja_JP: "コミュニティ"
+    en: "Community"
+    zh_CN: "社区"
+
+nickname:
+  caption:
+    ja_JP: "ニックネーム"
+    en: "Nickname"
+    zh_CN: "昵称"

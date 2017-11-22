@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="">
+        <source>Apps</source>
+        <target>应用程序</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>App Gallery</source>
+        <target>应用程序库</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You haven't the app.</source>
+        <target>您没有应用程序。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The Apps can be added from %0%.</source>
+        <target>可以从%0%添加应用程序。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>About App</source>
+        <target>应用程序详细</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>App Info</source>
+        <target>应用程序信息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>App Information</source>
+        <target>应用程序信息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Name</source>
+        <target>名字</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Status</source>
+        <target>状态</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Screen Shot</source>
+        <target>屏幕快照</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Thumbnail</source>
+        <target>缩略图</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Discription</source>
+        <target>详细</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Users</source>
+        <target>用户数</target>
+      </trans-unit>
+      <trans-unit>
+        <source>App Users</source>
+        <target>应用程序用户</target>
+      </trans-unit>
+      <trans-unit>
+        <source>Members that has "%0%"</source>
+        <target>正在使用「%0%」的成员</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>About Author</source>
+        <target>作者详细</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Author</source>
+        <target>作者</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Affiliation</source>
+        <target>所属</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Aboutme</source>
+        <target>关于作者</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Photo</source>
+        <target>照片</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Link</source>
+        <target>链接</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Quote</source>
+        <target>引用</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Search Apps</source>
+        <target>应用程序搜索</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Keyword</source>
+        <target>关键词</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Order by</source>
+        <target>排序</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Newest</source>
+        <target>最新</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Oldest</source>
+        <target>最老</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Your search queries did not match any Apps.</source>
+        <target>未找到匹配的应用程序。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Add this App</source>
+        <target>添加该应用程序</target>
+      </trans-unit>
+      <trans-unit id ="">
+        <source>Remove</source>
+        <target>删除</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Information</source>
+        <target>信息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Add a new App</source>
+        <target>添加新的应用程序</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Add</source>
+        <target>添加</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Add App: %0%</source>
+        <target>添加应用: %0%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you wish to install this App?</source>
+        <target>安装该应用程序吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The App might use your profile and your %friend% information.</source>
+        <target>应用程序有可能使用您的个人档案信息或者%friend%信息。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Failed in adding the App.</source>
+        <target>应用程序添加失败。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Remove the App</source>
+        <target>删除应用程序</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you really delete this App?</source>
+        <target>真的要删除该应用程序吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The App was removed successfully.</source>
+        <target>应用程序已删除。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>App Settings: %0%</source>
+        <target>应用程序设定: %0%</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Display on the home</source>
+        <target>在主页上显示</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Display on your profile</source>
+        <target>在您的档案上显示</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Display on your profile</source>
+        <target>在您的档案上显示</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Deny</source>
+        <target>禁止</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The SNS administrator's permission is necessary</source>
+        <target>SNS管理者的许可为必要条件</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Allow</source>
+        <target>许可</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Install new App</source>
+        <target>安装新的应用程序</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Apps Installed by You</source>
+        <target>您安装的应用程序</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Update</source>
+        <target>升级</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>If the members use the app, the SNS administrator's permission is necessary.</source>
+        <target>对于成员使用应用程序，SNS管理者的许可为必要条件。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>This app is waiting to approval by the SNS administrator, or is inactive.</source>
+        <target>该应用程序正等待管理者的批准，或者未激活。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>This app is already installed.</source>
+        <target>该应用程序已被安装。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Member who Added App</source>
+        <target>应用程序提供者</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Information for Developer</source>
+        <target>面向开发者的信息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Update App Info</source>
+        <target>升级应用程序信息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>This is waiting to approval by the SNS administrator.</source>
+        <target>等待管理者的批准</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

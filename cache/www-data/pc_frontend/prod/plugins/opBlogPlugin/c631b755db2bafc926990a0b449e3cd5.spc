@@ -1,0 +1,1 @@
+a:3:{s:3:"url";s:28:"http://d.hatena.ne.jp/sonka/";s:8:"feed_url";s:31:"http://d.hatena.ne.jp/sonka/rss";s:5:"build";i:20081219;}

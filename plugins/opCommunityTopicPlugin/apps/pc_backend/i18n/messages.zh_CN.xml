@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="">
+        <source>Everyone can read</source>
+        <target>向全员公开</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Only community's members can read</source>
+        <target>仅向社区参加者公开</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Community's members can create</source>
+        <target>社区参加者可以创建</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Only community's admin can create</source>
+        <target>仅社区管理者才能创建</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Manage Topic/Event</source>
+        <target>社区话题・活动管理</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Topic List</source>
+        <target>话题列表</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Topic Comment List</source>
+        <target>话题评论列表</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>There are no topics matches search condition.</source>
+        <target>没有匹配的社区话题。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Search</source>
+        <target>搜索</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete</source>
+        <target>删除</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you really want to delete this topic?</source>
+        <target>真的要删除该社区话题吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Topic ID</source>
+        <target>话题ID</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Topic Title</source>
+        <target>文章标题</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Topic Description</source>
+        <target>正文</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Topic Comment ID</source>
+        <target>话题评论ID</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Topic Comment Description</source>
+        <target>评论正文</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Created Date</source>
+        <target>创建时间</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Comment Number</source>
+        <target>评论编号</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Event List</source>
+        <target>活动列表</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Event ID</source>
+        <target>活动ID</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Event Title</source>
+        <target>活动标题</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Event Description</source>
+        <target>正文</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Open Date</source>
+        <target>举办时间</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>There are no events matches search condition.</source>
+        <target>没有匹配的社区活动。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you really want to delete this event?</source>
+        <target>真的要删除该社区活动吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Topic Deleted successfully.</source>
+        <target>社区话题已删除。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Event Deleted successfully.</source>
+        <target>社区活动已删除。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Topic Comment Deleted successfully.</source>
+        <target>话题评论已删除。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete Community Topic</source>
+        <target>删除社区话题的确认画面</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete Community Event</source>
+        <target>删除社区活动的确认画面</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Nickname</source>
+        <target>昵称</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Event Member List</source>
+        <target>活动参加者列表</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>There are no event members matches search condition.</source>
+        <target>没有匹配的活动参加者。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>There are no topic comments matches search condition.</source>
+        <target>没有匹配的话题评论。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you really want to delete this topic comment?</source>
+        <target>真的要删除该评论吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete Community Topic Comment</source>
+        <target>删除评论的确认画面</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Event Comment Description</source>
+        <target>评论正文</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Event Comment List</source>
+        <target>活动评论列表</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>There are no event comments matches search condition.</source>
+        <target>没有匹配的评论。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete Community Event Comment</source>
+        <target>删除评论的确认画面</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you really want to delete this event comment?</source>
+        <target>真的要删除该评论吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Event Comment Deleted successfully.</source>
+        <target>评论已删除。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete Community Event Member</source>
+        <target>删除活动参加者的确认画面</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you really want to delete this event member?</source>
+        <target>真的要把该成员从活动参加者中删除吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Event Member Deleted successfully.</source>
+        <target>成员已从活动参加者中删除了。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

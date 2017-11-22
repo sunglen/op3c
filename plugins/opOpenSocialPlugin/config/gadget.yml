@@ -1,0 +1,15 @@
+applicationBoxes:
+  caption:
+    zh_CN: "应用程序盒"
+  description:
+    zh_CN: "在主页上设置成员拥有的OpenSocial应用程序"
+  component: [application, renderHomeApplications]
+  config:
+    num:
+      Name:      "num"
+      Caption:   "可显示的应用程序数"
+      FormType:  "select"
+      ValueType:  "int"
+      IsRequired: true
+      Default:    3
+      Choices:    {1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6}

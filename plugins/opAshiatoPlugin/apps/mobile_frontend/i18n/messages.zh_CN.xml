@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+        <source>Pageview logs</source>
+        <target>足迹</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>no other Pageview logs</source>
+        <target>没有人留下足迹</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Pageview Logs of %1%</source>
+        <target>这些人踏入过%1%的页面。</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Pageview %d Count</source>
+        <target>总访问数：%d 人次</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

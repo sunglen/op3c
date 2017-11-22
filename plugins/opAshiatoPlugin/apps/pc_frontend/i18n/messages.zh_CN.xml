@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+        <source>Pageview logs</source>
+        <target>足迹</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>no other Pageview logs</source>
+        <target>没有足迹</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Pageview Logs of %1%</source>
+        <target>%1%的页面的访问者</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Pageview %d Logs Explanation</source>
+        <target>（显示最近%d次，同一人物在同一日期的访问只显示最近的访问时间。）</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Pageview %d Count</source>
+        <target>页面的访问数：%d 次访问</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

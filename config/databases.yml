@@ -1,0 +1,9 @@
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:dbname=readjapanlocal;host=localhost'
+      username: sunge
+      encoding: utf8
+      attributes: { 164: true }
+      password: g10p3CAdmin

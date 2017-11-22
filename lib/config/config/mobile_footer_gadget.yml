@@ -1,0 +1,19 @@
+freeArea:
+  caption:
+    zh_CN: "自由区域"
+  description:
+    zh_CN: "可设置自由区域"
+  component: [default, freeAreaBox]
+  config:
+    title:
+      Name:       "title"
+      Caption:    "标题"
+      FormType:   "input"
+      ValueType:  "text"
+      IsRequired: false
+    value:
+      Name:       "value"
+      Caption:    "内容"
+      FormType:   "rich_textarea"
+      ValueType:  "text"
+      IsRequired: false

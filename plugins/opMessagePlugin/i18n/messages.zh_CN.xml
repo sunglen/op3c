@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="">
+        <source>%Friend% link request message</source>
+        <target>%Friend%结交申请消息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%Community% joining request message</source>
+        <target>%Community%参加申请消息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%Community% taking over request message</source>
+        <target>%Community%管理者交接请求消息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%1% sent you %friend% link request message.</source>
+        <target>收到了来自 %1% 的%friend%结交申请。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Message</source>
+        <target>消息</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Please allow or reject this request in the confirmation list page.</source>
+        <target>关于该请求，请从待批准列表中选择通过或拒绝。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%1% sent you %2% %community% joining request message.</source>
+        <target>收到了来自 %1% 的%2%%community%的参加申请。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>%1% sent you %2% %community% taking over request message.</source>
+        <target>收到了来自 %1% 的%2%%community%的管理者交接请求消息。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

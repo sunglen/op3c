@@ -1,0 +1,44 @@
+invite_mode:
+  Name:      "invite_mode"
+  Caption:   "邀请模式"
+  FormType:  "radio"
+  ValueType: "text"
+  IsConfig:   true
+  IsRequired: true
+  Default:    1
+  Choices:
+    2: "允许不经过邀请的注册"
+    1: "允许SNS的加入者发出邀请"
+    0: "不允许邀请"
+
+enable_pc:
+  Name:      "enable_pc"
+  Caption:   "设定PC版有效"
+  FormType:  "radio"
+  ValueType: "text"
+  IsConfig:   true
+  IsRequired: true
+  Default:    1
+  Choices:
+    - "无效"
+    - "有效"
+
+enable_mobile:
+  Name:      "enable_mobile"
+  Caption:   "设定手机版有效"
+  FormType:  "radio"
+  ValueType: "text"
+  IsConfig:   true
+  IsRequired: true
+  Default:    1
+  Choices:
+    - "无效"
+    - "有效"
+
+self_invite_action:
+  IsConfig: false
+  Default:  "@homepage"
+
+admin_invite:
+  IsConfig: false
+  Default:  true

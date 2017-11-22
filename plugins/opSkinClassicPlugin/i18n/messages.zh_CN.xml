@@ -1,0 +1,331 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="">
+        <source>Theme</source>
+        <target>主题</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Line color</source>
+        <target>线条颜色</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Page background color</source>
+        <target>页面背景色</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Contents background color</source>
+        <target>内容区域的背景色</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Frame color</source>
+        <target>框架线条颜色</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Header background color</source>
+        <target>页眉背景色</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Information background color</source>
+        <target>说明区域的背景色</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Box background color</source>
+        <target>Box的背景色</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Left menu background color</source>
+        <target>左侧菜单的背景色</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin login</source>
+        <target>登录画面</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin after header</source>
+        <target>登录后页眉</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin after header 2</source>
+        <target>登录后页脚(放上鼠标后)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin navi h</source>
+        <target>自己的页面菜单</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin navi f</source>
+        <target>他人的页面菜单</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin navi c</source>
+        <target>社区菜单</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin navi h 2</source>
+        <target>自己的页面菜单(放上鼠标后)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin navi f 2</source>
+        <target>他人的页面菜单(放上鼠标后)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin navi c 2</source>
+        <target>社区菜单(放上鼠标后)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon search</source>
+        <target>搜索图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button search 1</source>
+        <target>搜索按钮１</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button search 2</source>
+        <target>搜索按钮２</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button search 3</source>
+        <target>搜索按钮３</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button search 4</source>
+        <target>搜索按钮４</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button search 5</source>
+        <target>搜索按钮５</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Birthday f</source>
+        <target>生日图片</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Birthday f 2</source>
+        <target>快要过生日图片</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Birthday h</source>
+        <target>自己生日图片</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon information</source>
+        <target>信息栏图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin before header</source>
+        <target>登录前页眉</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin footer</source>
+        <target>通用页脚</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>No image</source>
+        <target>no_image</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>No logo</source>
+        <target>no_logo</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>No logo small</source>
+        <target>no_logo_small</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button edit photo</source>
+        <target>「编辑照片」</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button prof conf</source>
+        <target>「档案」</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button show photo</source>
+        <target>「更多照片」</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button kyohi</source>
+        <target>「拒绝」</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button sakujo</source>
+        <target>「删除」</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button shonin</source>
+        <target>「批准」</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button shosai</source>
+        <target>「查看详细」</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Button comment</source>
+        <target>「评论」</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Bg button</source>
+        <target>其他的按钮背景图片</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Satisfaction level 1</source>
+        <target>满足度１</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Satisfaction level 2</source>
+        <target>满足度２</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Satisfaction level 3</source>
+        <target>满足度３</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Satisfaction level 4</source>
+        <target>满足度４</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Satisfaction level 5</source>
+        <target>满足度５</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon title 1</source>
+        <target>标题１</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Content header 1</source>
+        <target>标题２</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon arrow 1</source>
+        <target>箭头图标１</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon arrow 2</source>
+        <target>箭头图标２</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon 1</source>
+        <target>列表图标１</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon 2</source>
+        <target>列表图标２</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon 3</source>
+        <target>列表图标３</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon alert l</source>
+        <target>警告图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon crown</source>
+        <target>管理者图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon camera</source>
+        <target>有图像的图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon birthday</source>
+        <target>生日图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon event B</source>
+        <target>活动图标１</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon event R</source>
+        <target>活动图标２</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon pen</source>
+        <target>有日程的图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon weather FC</source>
+        <target>天气图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon schedule</source>
+        <target>日程图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon mail 1</source>
+        <target>未读邮件的图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon mail 2</source>
+        <target>已读邮件的图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon mail 3</source>
+        <target>已发邮件的图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Icon mail 4</source>
+        <target>已回邮的图标</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Deco op b</source>
+        <target>大字</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Deco op u</source>
+        <target>下划线</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Deco op s</source>
+        <target>删除线</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Deco op i</source>
+        <target>斜体</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Deco op large</source>
+        <target>稍大的文字</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Deco op small</source>
+        <target>稍小的文字</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Deco op color</source>
+        <target>文字颜色指定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Deco op image</source>
+        <target>插入相册</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Deco op emoji docomo</source>
+        <target>插入绘文字（DoCoMo）</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin ktai header</source>
+        <target>logo图像</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Marker</source>
+        <target>标记</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>ArticleList marker</source>
+        <target>文章列表标记</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Colon</source>
+        <target>克隆标记</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Skin login open</source>
+        <target>登录画面 (开放制)</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

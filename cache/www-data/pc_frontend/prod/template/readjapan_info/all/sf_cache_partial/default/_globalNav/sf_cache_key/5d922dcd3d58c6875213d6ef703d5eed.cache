@@ -1,0 +1,12 @@
+001308664313001308577913a:2:{s:7:"content";s:676:"<ul>
+<li id="globalNav__homepage"><a href="/">我的主页</a></li>
+<li id="globalNav_member_search"><a href="/member/search">搜索成员</a></li>
+<li id="globalNav_community_search"><a href="/community/search">搜索社区</a></li>
+<li id="globalNav__album_list"><a href="/album">相册</a></li>
+<li id="globalNav_diary_index"><a href="/diary">日记</a></li>
+<li id="globalNav_blog_index"><a href="/blog">最新博客</a></li>
+<li id="globalNav_member_config"><a href="/member/config">变更设定</a></li>
+<li id="globalNav_member_invite"><a href="/member/invite">邀请朋友</a></li>
+<li id="globalNav_member_logout"><a href="/member/logout">暂时离开</a></li>
+</ul>
+";s:8:"response";C:13:"sfWebResponse":391:{a:12:{i:0;s:0:"";i:1;i:200;i:2;s:2:"OK";i:3;a:5:{s:13:"http_protocol";s:8:"HTTP/1.1";s:7:"logging";s:0:"";s:7:"charset";s:5:"utf-8";s:17:"send_http_headers";b:1;s:12:"content_type";s:24:"text/html; charset=utf-8";}i:4;a:0:{}i:5;b:0;i:6;a:0:{}i:7;a:0:{}i:8;a:0:{}i:9;a:3:{s:5:"first";a:0:{}s:0:"";a:0:{}s:4:"last";a:0:{}}i:10;a:3:{s:5:"first";a:0:{}s:0:"";a:0:{}s:4:"last";a:0:{}}i:11;a:0:{}}}}

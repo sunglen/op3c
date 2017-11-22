@@ -1,0 +1,32 @@
+invite_mode:
+  Default: 1
+
+enable_mobile:
+  Default: 1
+
+enable_pc:
+  Default: 1
+
+self_invite_action:
+  Default: "opAuthMailAddress/requestRegisterURL"
+
+help_login_error_action:
+  Name: "self_invite_action"
+  Caption:   ""
+  FormType:  ""
+  ValueType: ""
+  IsConfig:   false
+  IsRequired: false
+  Default: "opAuthMailAddress/helpLoginError"
+
+is_check_multiple_address:
+  Name:      "is_check_multiple_address"
+  Caption:   "登录用邮箱地址设定"
+  FormType:  "radio"
+  ValueType: "text"
+  IsConfig:   true
+  IsRequired: true
+  Default:    0
+  Choices:
+    1: "PC邮箱与手机邮箱两方都可接受"
+    0: "PC邮箱与手机邮箱其中的一方可以接受"

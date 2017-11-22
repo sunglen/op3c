@@ -1,0 +1,75 @@
+loginForm:
+  caption:
+    zh_CN: "登录表单"
+  description:
+    zh_CN: "可设置登录用表单。含有可用的所有认证模式下的登录表单。"
+  component: [default, loginFormBox]
+
+freeArea:
+  caption:
+    zh_CN: "自由区域"
+  description:
+    zh_CN: "可设置自由区域"
+  component: [default, freeAreaBox]
+  config:
+    title:
+      Name:       "title"
+      Caption:    "标题"
+      FormType:   "input"
+      ValueType:  "text"
+      IsRequired: false
+    value:
+      Name:       "value"
+      Caption:    "内容"
+      FormType:   "rich_textarea"
+      ValueType:  "text"
+      IsRequired: false
+
+rssBox:
+  caption:
+    zh_CN: "RSS Reader"
+  description:
+    zh_CN: "显示指定的URL的RSS Feed。"
+  component: [default, rssBox]
+  config:
+    title:
+      Name:       "title"
+      Caption:    "标题"
+      FormType:   "input"
+      ValueType:  "text"
+      IsRequired: false
+    url:
+      Name:       "url"
+      Caption:    "URL"
+      FormType:   "input"
+      ValueType:  "text"
+      IsRequired: false
+
+linkListBox:
+  caption:
+    zh_CN: "链接列表"
+  description:
+    zh_CN: "显示可指定的链接的列表"
+  component: [default, linkListBox]
+  config:
+    title:
+      Name:       "title"
+      Caption:    "标题"
+      FormType:   "input"
+      ValueType:  "text"
+      IsRequired: false
+<?php for ($i = 1; $i <= 10; $i++): ?>
+    url<?php echo $i ?>:
+      Name:       "url<?php echo $i ?>"
+      Caption:    "URL<?php echo $i ?>"
+      FormType:   "input"
+      ValueType:  "text"
+      IsRequired: false
+    text<?php echo $i ?>:
+      Name:       "text<?php echo $i ?>"
+      Caption:    "链接文本<?php echo $i ?>"
+      FormType:   "input"
+      ValueType:  "text"
+      IsRequired: false
+<?php endfor; ?>
+

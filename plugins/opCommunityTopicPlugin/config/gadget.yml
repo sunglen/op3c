@@ -1,0 +1,31 @@
+recentCommunityTopicComment:
+  caption:
+    zh_CN: "社区最新话题列表"
+  description:
+    zh_CN: "将成员加入的社区话题以最新发表列表显示"
+  component: [communityTopic, topicCommentListBox]
+  config:
+    col:
+      Name:       "col"
+      Caption:    "显示的话题数"
+      FormType:   "select"
+      ValueType:  "integer"
+      IsRequired: true
+      Default:    5
+      Choices:    {1: 1, 3: 3, 5: 5, 7: 7, 10: 10}
+
+recentCommunityEventComment:
+  caption:
+    zh_CN: "社区最新活动列表"
+  description:
+    zh_CN: "将成员加入的社区活动以最新发表列表显示"
+  component: [communityEvent, eventCommentListBox]
+  config:
+    col:
+      Name:       "col"
+      Caption:    "显示的活动数"
+      FormType:   "select"
+      ValueType:  "integer"
+      IsRequired: true
+      Default:    5
+      Choices:    {1: 1, 3: 3, 5: 5, 7: 7, 10: 10}

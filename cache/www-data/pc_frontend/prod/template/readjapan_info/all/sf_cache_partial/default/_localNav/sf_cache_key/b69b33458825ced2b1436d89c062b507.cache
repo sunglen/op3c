@@ -1,0 +1,23 @@
+001308570387001308483987a:2:{s:7:"content";s:521:"<ul class="community">
+
+
+<li id="community_community_home"><a href="/community/2">社区首页</a></li>
+
+
+
+<li id="community_communityTopic_listCommunity"><a href="/communityTopic/listCommunity/2">话题列表</a></li>
+
+
+
+<li id="community_communityEvent_listCommunity"><a href="/communityEvent/listCommunity/2">活动列表</a></li>
+
+
+
+<li id="community_community_join"><a href="/community/join/id/2">加入社区</a></li>
+
+
+
+<li id="community_community_quit"><a href="/community/quit/id/2">退出社区</a></li>
+
+</ul>
+";s:8:"response";C:13:"sfWebResponse":391:{a:12:{i:0;s:0:"";i:1;i:200;i:2;s:2:"OK";i:3;a:5:{s:13:"http_protocol";s:8:"HTTP/1.1";s:7:"logging";s:0:"";s:7:"charset";s:5:"utf-8";s:17:"send_http_headers";b:1;s:12:"content_type";s:24:"text/html; charset=utf-8";}i:4;a:0:{}i:5;b:0;i:6;a:0:{}i:7;a:0:{}i:8;a:0:{}i:9;a:3:{s:5:"first";a:0:{}s:0:"";a:0:{}s:4:"last";a:0:{}}i:10;a:3:{s:5:"first";a:0:{}s:0:"";a:0:{}s:4:"last";a:0:{}}i:11;a:0:{}}}}

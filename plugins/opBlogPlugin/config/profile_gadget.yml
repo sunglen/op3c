@@ -1,0 +1,6 @@
+blogUser:
+  caption:
+    zh_CN: "最新博客"
+  description:
+    zh_CN: "显示最新博客一览。"
+  component: [blog, blogUser]

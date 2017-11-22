@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file original="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="1">
+        <source>Name</source>
+        <target>标题</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Body</source>
+        <target>详细</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Open date</source>
+        <target>举办日期</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>Open date comment</source>
+        <target>举办日期补足</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Area</source>
+        <target>举办场所</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Application deadline</source>
+        <target>募集截至日</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Capacity</source>
+        <target>募集人数</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Count of Member</source>
+        <target>参加者</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Writer</source>
+        <target>企划者</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Invalid.</source>
+        <target>不正确。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Required.</source>
+        <target>为必须项目。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

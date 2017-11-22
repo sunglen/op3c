@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<xliff version="1.0">
+  <file orginal="global" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="">
+        <source>App Configuration</source>
+        <target>应用程序设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Allow the SNS members to add apps</source>
+        <target>允许SNS成员添加应用程序</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Container Configuration</source>
+        <target>容器设定</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Token cipher key</source>
+        <target>令牌加密匙</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Token hmac key</source>
+        <target>令牌HMAC匙</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Token max age (s)</source>
+        <target>令牌持续时间(秒)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Cache time (s)</source>
+        <target>缓存时间(秒)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Use outer OpenSocial container (Recomended)</source>
+        <target>使用外部的OpenSocial容器(推荐)</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The OpenSocial container URL</source>
+        <target>OpenSocial容器URL</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Add App</source>
+        <target>添加应用程序</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Delete App</source>
+        <target>删除应用程序</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Do you delete this app?</source>
+        <target>确定要删除该应用程序吗？</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Manage Apps</source>
+        <target>应用程序管理</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Screenshot</source>
+        <target>屏幕快照</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Last Updated</source>
+        <target>最后更新日</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The OpenSocial container is executed by the same domain as this SNS now.</source>
+        <target>现在OpenSocial容器在与此SNS相同的域上执行。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>You should configure to outer domain container for reason of security when this SNS is production operation.</source>
+        <target>当实际运行该SNS时，出于安全上的理由，应该进行外部容器的设定。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>See document</source>
+        <target>查看文档</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Copy the downloaded file to %config% directory of Shindig.</source>
+        <target>请复制此文件至Shindig的%config%目录。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>If you modify the profile item, you must update this file.</source>
+        <target>如果更改了档案项目，该文件必须更新。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Inactive Apps</source>
+        <target>无效应用程序一览</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Active</source>
+        <target>有效</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Activate</source>
+        <target>使有效</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Inactivate</source>
+        <target>使无效</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>Inactive</source>
+        <target>无效</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>There are no app.</source>
+        <target>无应用程序。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>There are no inactive app.</source>
+        <target>没有无效的应用程序。</target>
+      </trans-unit>
+      <trans-unit id="">
+        <source>The app can be installed from %0%.</source>
+        <target>应用程序可以从 %0% 安装。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

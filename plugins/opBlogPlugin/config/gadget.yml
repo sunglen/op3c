@@ -1,0 +1,12 @@
+blogFriend:
+  caption:
+    zh_CN: "朋友的最新博客"
+  description:
+    zh_CN: "显示朋友的最新博客一览。"
+  component: [blog, blogFriend]
+blogUser:
+  caption:
+    zh_CN: "自己的最新博客"
+  description:
+    zh_CN: "显示自己的最新博客一览。"
+  component: [blog, blogUser]
